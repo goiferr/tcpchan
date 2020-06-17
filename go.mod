@@ -1,4 +1,4 @@
-module github.com/gowrapdata/tcpchan
+module github.com/goiferr/tcpchan
 
 go 1.14
 
